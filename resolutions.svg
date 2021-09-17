@@ -1,40 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css" />
-
-
-    <title>Resolutions</title>
-    <style>
-        html {
-            background-color: #000;
-        }
-        
-        .header {
-            background-color: #000;
-            color: white;
-            padding: 20px;
-            font-family: fantasy;
-        }
-        
-        .container-fluid {
-            background-color: black;
-            color: white;
-        }
-    </style>
-</head>
-
-<body class="container-fluid">
-
-    <h1>Resolutions. Let's animate this awesome piece donated by <a href="https://dribbble.com/briandnutt">Brian Nutt</h1></a> Visit his Dribble and his <a href="https://www.behance.net/briannutt">Behance</a> to see more of his awesome artwork.
-
-        <!-- This is just the SVG copied from the original exactly as it is and pasted into this Pre-styled index.html 
-    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1296 1714.99">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1296 1714.99">
         <defs>
             <style>
                 .cls-1,.cls-10,.cls-11,.cls-23,.cls-24,.cls-25,.cls-26,
@@ -128,7 +92,8 @@
                 <path class="cls-4" d="M834.33,0C861.35,29.26,900,46.71,943,46.71a147.36,147.36,0,0,0,59.16-12.32,147.93,147.93,0,0,0,128.13,134.53A65,65,0,0,0,1180,206.56a64.89,64.89,0,0,0,64.18,
                 74.6,65.48,65.48,0,0,0,8.69-.6,148.41,148.41,0,0,0,22.35,31.55c11.9,12.86,5,23.59,20.76,31.58V0Z"/>
             </g>
-       
+            
+            <!--           Note that ALL ids are Pascal_Case Please!         -->
 
        
             <g id="Magic_Symbols" data-name="Magic Symbols">
@@ -558,7 +523,7 @@
                     </g>
                     
 
-<!--This is the duplicate button row   
+<!--This is the duplicate button row   -->
 
 <g id="Buttons" class="Button_Class">
     <circle class="cls-18" cx="967.83" cy="1169.35" r="13.83"/>
@@ -660,7 +625,7 @@
 
 
 
-<!--  This is the duplicate button row 
+<!--  This is the duplicate button row -->
                     <g id="Large_Box" data-name="Large Box">
                         <polygon class="cls-16" points="646.37 1467.44 180.03 1467.44 180.03 893.27 330.13 743.16 796.47 1317.34 646.37 1467.44"/>
                         <polygon class="cls-17" points="646.37 1467.44 180.03 1467.44 330.13 1317.34 796.47 1317.34 646.37 1467.44"/>
@@ -953,7 +918,7 @@
                         </g>
         </g>    
 
-                        <!--End of Layer_6 Text Object 
+                        <!--End of Layer_6 Text Object -->
                         <g id="Clouds_Front" data-name="Clouds Front">
                             <path class="cls-4" d="M918.83,1672.82a31.37,31.37,0,0,0-5,.41,30.66,30.66,0,0,0-22.21-29.43,35,35,0,0,0-57.87-39.36,52.62,52.62,0,0,0-75.3,58.1,30.65,30.65,0,0,0-24.68,44.69H930.06A70.24,70.24,0,0,1,945,1687.48,30.65,30.65,0,0,0,918.83,1672.82Z"/>
                             <path class="cls-4" d="M1190.23,1420.05a108.9,108.9,0,0,0,11.69,49c-66.06,4.67-119.2,49.24-127.67,106-18.82,7.38-32.62,22.74-35.72,41.16a71.32,71.32,0,0,0-9.2-.6c-34,0-61.59,24-61.59,53.72a47.68,47.68,0,0,0,.56,7.2A142,142,0,0,0,938.36,
@@ -1168,6 +1133,3 @@
                                 </g>
                                             
             </svg>
-</body>
-
-</html>
