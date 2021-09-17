@@ -18,7 +18,7 @@
 ## You can also see Brian's work at [Brian's Behance Page](https://www.behance.net/briannutt)
 ## Here is [One Version](https://resolutions-plum.vercel.app/)
 of an infinite amount of possible solutions to this animated illustration. Your imagination is it's limits. And you can have it and do whatever you want with it simply subscribe and go clone or copy this suker!
-
+## [Project Image](tutorial_project_diff_image.jpg)
 ## Here is the link to the core [GSAP CDN](https://cdnjs.com/libraries/gsap) which will allow us to use it's core animation functionality simply by pasting the CDN into the body of your HTML!
  
 ## The svg that is by itself here is in order for us to look at it outside of our html and see what happens when we insert it into the document and access it with one simple javascript file!!
