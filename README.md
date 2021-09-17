@@ -7,6 +7,7 @@
 # All you need to do to enjoy this is clone it and put it into a folder on your computer. Go to it's index.html...
 ## And boom! You are ready to start playing with the code. I seperated it for better visability in the tutorial... I have spent countless hours identifying all of these elements so
 ## If you were to get a big SVG like this from someone...just expect that there will be some work involved but it's not hard, it only takes time.
+## I decided to leave in some of the gaps that I normally would cout out but...
 ## These were in order to see what it was that was actually going down inside of this massive piece of math art. Cuz that is exactly what an SVG is!
 ### In this video, I breakdown what it took to put this all together and how much 
 ### we don't know about inline SVG and the power they possess when used properly.
