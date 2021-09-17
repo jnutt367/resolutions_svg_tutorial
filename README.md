@@ -1,6 +1,7 @@
 # 👋 Welcome to the Resolutions project
 ## An animation Project that is in my first featured Youtube tutorial. 
 ### You may clone and practice with it as much as you want. I had so much fun doing it that I made four different versions lol.
+### You can even have a look at all of those if it interests you, [RESOLUTIONS GITHUB](https://github.com/jnutt367/RESOLUTIONS) have fun!
 ## I really hope Y'all enjoy. 😄 
 ## This is the corresponding README for my SVG animation video on [Live Love Learn](https://www.youtube.com/user/JNUTT1000/featured)
 # All you need to do to enjoy this is clone it and put it into a folder on your computer. Go to it's index.html...
