@@ -4,7 +4,10 @@
 ### You can even have a look at all of those if it interests you, [RESOLUTIONS GITHUB](https://github.com/jnutt367/RESOLUTIONS) have fun!
 ## I really hope Y'all enjoy. 😄 
 ## This is the corresponding README for my SVG animation video on [Live Love Learn](https://www.youtube.com/user/JNUTT1000/featured)
-# All you need to do to enjoy this is clone it and put it into a folder on your computer. Go to it's index.html...
+## All you need to do to enjoy this is clone it or fork it. Then open it inside of VSCode on your computer. Go to it's index.html...
+
+## You can even see the output if you install open live server extension and then right click & hit open live server. It'll show you in the localhost what it looks like. ANd even update it when you change it.
+
 ## And boom! You are ready to start playing with the code. I seperated it for better visability in the tutorial... I have spent countless hours identifying all of these elements so
 ## If you were to get a big SVG like this from someone...just expect that there will be some work involved but it's not hard, it only takes time.
 ## I decided to leave in some of the gaps that I normally would cut out but...
