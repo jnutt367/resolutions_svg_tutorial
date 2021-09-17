@@ -6,5 +6,7 @@
 
 ## Here is [One Version](https://resolutions-plum.vercel.app/)
 of an infinite amount of possible solutions to this animated illustration. Your imagination is it's limits. And you can have it and do whatever you want with it simply subscribe and then go get this suker!
+Below is a link to the reference that I have open in the video to help me remember things.
+[CSS Tricks](https://css-tricks.com/using-svg/)
 
 
