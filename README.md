@@ -1,7 +1,11 @@
-# resolutions_svg_tutorial
+# 👋 Welcome to the Resolutions project
+## An animation Project that is in my first featured Youtube tutorial. 
+### You may clone and practice with it as much as you want. I had so much fun doing it that I made four different versions lol.
+## I really hope Y'all enjoy. 😄 
 ## This is the corresponding README for my SVG animation video on [Live Love Learn](https://www.youtube.com/user/JNUTT1000/featured)
 # All you need to do to enjoy this is clone it and put it into a folder on your computer. Go to it's index.html...
-## And boom! You are ready to start playing with the code. My apologies for all the gaps and spaces in it.
+## And boom! You are ready to start playing with the code. I seperated it for better visability in the tutorial... I have spent countless hours identifying all of these elements so
+## If you were to get a big SVG like this from someone...just expect that there will be some work involved but it's not hard, it only takes time.
 ## These were in order to see what it was that was actually going down inside of this massive piece of math art. Cuz that is exactly what an SVG is!
 ### In this video, I breakdown what it took to put this all together and how much 
 ### we don't know about inline SVG and the power they possess when used properly.
@@ -13,6 +17,9 @@
 ## Here is [One Version](https://resolutions-plum.vercel.app/)
 of an infinite amount of possible solutions to this animated illustration. Your imagination is it's limits. And you can have it and do whatever you want with it simply subscribe and go clone or copy this suker!
 
-[GSAP CDN](https://cdnjs.com/libraries/gsap)
- This is just the SVG copied from the original exactly as it is and pasted into this Pre-styled index.html 
+## Here is the link to the core [GSAP CDN](https://cdnjs.com/libraries/gsap) which will allow us to use it's core animation functionality simply by pasting the CDN into the body of your HTML!
+ 
+## The svg that is by itself here is in order for us to look at it outside of our html and see what happens when we insert it into the document and access it with one simple javascript file!!
+ 
+# Don't forget to like the vide and subscribe to the channel to help us grow together and let me know what to build next. This is a special project and we will return and look at it alot as it is a featured project on the channel! Thanks everyone! ## I'll be seeing you! Happy Coding 👋 
 
