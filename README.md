@@ -23,5 +23,7 @@ of an infinite amount of possible solutions to this animated illustration. Your 
  
 ## The svg that is by itself here is in order for us to look at it outside of our html and see what happens when we insert it into the document and access it with one simple javascript file!!
  
-# Don't forget to like the vide and subscribe to the channel to help us grow together and let me know what to build next. This is a special project and we will return and look at it alot as it is a featured project on the channel! Thanks everyone! ## I'll be seeing you! Happy Coding 👋 
+# Don't forget to like the video and subscribe to the channel to help us grow together and let me know what to build next. This is a special project and we will return and look at it alot as it is a featured project on the channel! Thanks everyone! 
+## I have several projects like this one that I will continue to come back to for different aspects of learning in SVG courses. SO get to know it if you want to.
+## I'll be seeing you! Happy Coding 👋 
 
