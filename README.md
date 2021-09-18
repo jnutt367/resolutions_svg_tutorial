@@ -25,8 +25,19 @@ of an infinite amount of possible solutions to this animated illustration. Your 
 ## Here is the link to the core [GSAP CDN](https://cdnjs.com/libraries/gsap) which will allow us to use it's core animation functionality simply by pasting the CDN into the body of your HTML!
  
 ## The svg that is by itself here is in order for us to look at it outside of our html and see what happens when we insert it into the document and access it with one simple javascript file!!
+ # Some of the creators that have inspired me are :
  
+## [DevEd](https://www.youtube.com/results?search_query=Dev+ed)
+## [Kevin Powell](https://www.youtube.com/results?search_query=Kevin+Powell)
+## [Ania Kubow](https://www.youtube.com/results?search_query=Ania+Kubow)
+## [Jesse Hall's Jumpstart Series](https://www.youtube.com/results?search_query=Jesse+Hall+Jumpstart+2021+series+mongoDB)
+## [Brad Traversy](https://www.youtube.com/results?search_query=traversy+media)
+## [JavaScript Mastery](https://www.youtube.com/results?search_query=javascript+mastery)
+## [Coding Train](https://www.youtube.com/results?search_query=coding+train)
+## [Treehouse](https://www.youtube.com/results?search_query=treehouse+coding)
 # Don't forget to like the video and subscribe to the channel to help us grow together and let me know what to build next. This is a special project and we will return and look at it alot as it is a featured project on the channel! Thanks everyone! 
 ## I have several projects like this one that I will continue to come back to for different aspects of learning in SVG courses. SO get to know it if you want to.
 ## I'll be seeing you! Happy Coding 👋 
+## At the end of this 2 or 3 part tutorial I will also teach you how to take this 
+## project and deploy it with github pages... It'll depend on feedback how many there are.
 
